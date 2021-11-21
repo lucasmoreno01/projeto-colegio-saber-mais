@@ -192,13 +192,13 @@ footer a:hover{
 @media (max-width: 650px){
 
     body{
-        padding-top: 57px;
+        padding-top: 66px;
     
     } 
      header{
          display: flex;
         position: fixed;
-        margin-top: -57px;
+        margin-top: -66px;
         z-index: 100;
         width: 100%;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.199);
